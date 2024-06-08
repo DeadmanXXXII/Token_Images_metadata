@@ -24,7 +24,7 @@ async function main(){
     const signer = createSignerFromKeypair(umi, fromWeb3JsKeypair(myKeypair))
     umi.use(signerIdentity(signer, true))
 
-    const ourMetadata = { // TODO change those values!
+    const ourMetadata = { // TODO change those values! this belongs too https://github.com/loopcreativeandy and was altered by me to cahnge my token name.
         name: "#H4ck3d1t Coin", 
         symbol: "./H4ck.exe",
         uri: "https://raw.githubusercontent.com/DeadmanXXXII/images/main/logo.png",
