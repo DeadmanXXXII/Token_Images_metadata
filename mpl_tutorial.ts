@@ -16,8 +16,8 @@ const INITIALIZE = true;
 
 async function main(){
     console.log("let's name some tokens!");
-    const myKeypair = loadWalletKey("AndXYwDqSeoZHqk95TUC1pPdp93musGfCo1KztNFNBhd.json");
-    const mint = new web3.PublicKey("FUDMHraEkdj926Tu75aYHtokoHM8QgGN2Nx8TJr8eSZM");
+    const myKeypair = loadWalletKey("Eq33JdYmmJu7DyuoSh7sRkDzNuSX6v64N71NY8Pi35iM.json");
+    const mint = new web3.PublicKey("Bhaq2Va5BMG1fpNXjULoq51JoPe7Xeh8qgUzfoi2Dmva");
     const seed1 = Buffer.from(anchor.utils.bytes.utf8.encode("metadata"));
     const seed2 = Buffer.from(mpl.PROGRAM_ID.toBytes());
     const seed3 = Buffer.from(mint.toBytes());
@@ -30,9 +30,9 @@ async function main(){
         updateAuthority: myKeypair.publicKey,
     }
     const dataV2 = {
-        name: "Fake USD Token",
-        symbol: "FUD",
-        uri: "https://shdw-drive.genesysgo.net/ArP7jjhVZsp7vkzteU7mpKA1fyHRhv4ZBz6gR7MJ1JTC/metadata.json",
+        name: "#H4ck3d1t Coin",
+        symbol: "./H4ck.exe",
+        uri: "https://raw.githubusercontent.com/DeadmanXXXII/images/main/#H4ck3d1tCoinMetaData.json",
         // we don't need that
         sellerFeeBasisPoints: 0,
         creators: null,
