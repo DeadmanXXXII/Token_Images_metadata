@@ -7,7 +7,7 @@ import { fromWeb3JsKeypair, fromWeb3JsPublicKey} from '@metaplex-foundation/umi-
 import * as bs58 from "bs58";
 
 const SPL_TOKEN_2022_PROGRAM_ID: PublicKey = publicKey(
-    ' CHANGE THIS TO YOURS TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb'
+    'TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA'
   );
 
   
@@ -23,14 +23,14 @@ const INITIALIZE = true;
 
 async function main(){
     console.log("let's name some token-22 tokens in 2024!");
-    const myKeypair = loadWalletKey("CHANGE THIS TO YOURS AndyUCWqhEnEMqHAByoRSHz2mvQxdyXyki9UQ7YCrTBY.json");
-    const mint = new web3.PublicKey("CHANGE THIS TO YOURS SD2idHukkWPziSuhVnD6yf2gNbgzGYzyvv7787ZvazK");
+    const myKeypair = loadWalletKey("Eq33JdYmmJu7DyuoSh7sRkDzNuSX6v64N71NY8Pi35iM.json");
+    const mint = new web3.PublicKey("Bhaq2Va5BMG1fpNXjULoq51JoPe7Xeh8qgUzfoi2Dmva");
 
     const umi = createUmi("https://api.devnet.solana.com");
     const signer = createSignerFromKeypair(umi, fromWeb3JsKeypair(myKeypair))
     umi.use(signerIdentity(signer, true))
 
-    const ourMetadata = { // TODO change those values!
+    const ourMetadata = { // TODO change those values! same as the last one all credit for this tool goes to https://github.com/loopcreativeandy
         name: "#H4ck3d1t Coin", 
         symbol: "./H4ck.exe",
         uri: "https://raw.githubusercontent.com/DeadmanXXXII/images/main/#H4ck3d1tCoinMetaData.json",
