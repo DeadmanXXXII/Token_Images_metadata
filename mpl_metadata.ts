@@ -17,8 +17,8 @@ const INITIALIZE = true;
 
 async function main(){
     console.log("let's name some tokens in 2024!");
-    const myKeypair = loadWalletKey("Change this to your value this is an example AndyUCWqhEnEMqHAByoRSHz2mvQxdyXyki9UQ7YCrTBY.json");
-    const mint = new web3.PublicKey("CHANGE THIS same as above SDTHBG48VGNoGS1U2ArnvMUZ3dxyGr1F4TT1ojD4QDB");
+    const myKeypair = loadWalletKey("Eq33JdYmmJu7DyuoSh7sRkDzNuSX6v64N71NY8Pi35iM.json");
+    const mint = new web3.PublicKey("Bhaq2Va5BMG1fpNXjULoq51JoPe7Xeh8qgUzfoi2Dmva");
 
     const umi = createUmi("https://api.devnet.solana.com");
     const signer = createSignerFromKeypair(umi, fromWeb3JsKeypair(myKeypair))
