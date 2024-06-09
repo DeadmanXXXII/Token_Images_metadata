@@ -15,28 +15,28 @@
     // Token symbol
 
     "address": "JDCLJ6Yfai1Wo23sRxX5EMEdMULcL9QSFkXg46nyqe53", 
-// Token address
+    // Token address
 
     "Mint_Authority": "HNZ7AooXCPWjRZrzbvBh1xBjCusHpdu78HTiVFp7M1N2", 
-// Mint authority address
+    // Mint authority address
 
     "decimals": 9, 
-// Number of decimal places
+    // Number of decimal places
 
     "mint_cap": 5000000, 
-// Maximum number of tokens that can be minted
+    // Maximum number of tokens that can be minted
 
     "minting_timestamp_utc": "2024-06-09T04:18:38Z", 
-// Minting timestamp in UTC
+    // Minting timestamp in UTC
 
     "minting_timestamp_bst": "Jun 9, 2024 at 05:18:38 British Summer Time", 
-// Minting timestamp in BST
+    // Minting timestamp in BST
 
     "tokenURL": "https://raw.githubusercontent.com/DeadmanXXXII/images/main/#H4ck3d1tCoinMetaData.json", 
-// URL to the token metadata
+    // URL to the token metadata
 
     "logoURI": "https://raw.githubusercontent.com/DeadmanXXXII/images/main/logo.png", 
-// URL to the token logo
+    // URL to the token logo
 
     "tags": [ 
         // Tags describing the token
