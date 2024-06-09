@@ -1,17 +1,11 @@
 {
-  "name": "./#H4ck3d1t.exe",
-  "symbol": "root@",
-  "uri": "https://arweave.net/Q-E3vO-KZbwQnpZ4OfE5p8DScw_AuuoisJ23_xmfn24"
-}
-
-  {
-      "chainId": 101,
-      "address": "JDCLJ6Yfai1Wo23sRxX5EMEdMULcL9QSFkXg46nyqe53",
-      "Mint_Authority": "HNZ7AooXCPWjRZrzbvBh1xBjCusHpdu78HTiVFp7M1N2"
-      "symbol": "root@",
-      "name": "./#H4ck3d1t.exe",
-      "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/DeadmanXXXII/images/main/logo.png",
+    "name": "./#H4ck3d1t.exe",
+    "chainID": "101"
+    "symbol": "root@",
+    "address": "JDCLJ6Yfai1Wo23sRxX5EMEdMULcL9QSFkXg46nyqe53",
+    "Mint_Authority": "HNZ7AooXCPWjRZrzbvBh1xBjCusHpdu78HTiVFp7M1N2"
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/DeadmanXXXII/images/main/logo.png",
       "tags": [
         "utility-token",
         "game-token",
@@ -19,7 +13,7 @@
         "My Metadata",
         "Gaming"
       ],
-      "extensions": {
+      "extensions": [
         "description": "My own in game test currency for TMHPMetaverse to come..",
         "discord": "https://discord.com/invite/KcHKZUmJ",
         "facebook": "https://www.facebook.com/profile.php?id=100094169196372",
@@ -29,6 +23,7 @@
         "reference1": "https://explorer.solana.com/address/BFq4DbQodNPCM3WaMv8awndzkXJYcU53unNMYhkWfYKe",
         "reference2": "https://solscan.io/token/BFq4DbQodNPCM3WaMv8awndzkXJYcU53unNMYhkWfYKe"
 
-      }
+        ],
     }
+}
 
