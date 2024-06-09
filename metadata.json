@@ -1,28 +1,101 @@
 {
-    "name": "./#H4ck3d1t.exe",
-    "chainID": "101"
-    "symbol": "root@",
-    "address": "JDCLJ6Yfai1Wo23sRxX5EMEdMULcL9QSFkXg46nyqe53",
-    "Mint_Authority": "HNZ7AooXCPWjRZrzbvBh1xBjCusHpdu78HTiVFp7M1N2"
-    "decimals": 9,
-    "logoURI": "https://raw.githubusercontent.com/DeadmanXXXII/images/main/logo.png",
-      "tags": [
+    "name": "./#H4ck3d1t.exe", 
+    // The name of the token
+
+    "version": "1.0", 
+    // Metadata version
+
+    "chainID": "101", 
+    // Blockchain ID
+
+    "chainName": "Solana", 
+    // Name of the blockchain
+
+    "symbol": "root@", 
+    // Token symbol
+
+    "address": "JDCLJ6Yfai1Wo23sRxX5EMEdMULcL9QSFkXg46nyqe53", 
+// Token address
+
+    "Mint_Authority": "HNZ7AooXCPWjRZrzbvBh1xBjCusHpdu78HTiVFp7M1N2", 
+// Mint authority address
+
+    "decimals": 9, 
+// Number of decimal places
+
+    "mint_cap": 5000000, 
+// Maximum number of tokens that can be minted
+
+    "minting_timestamp_utc": "2024-06-09T04:18:38Z", 
+// Minting timestamp in UTC
+
+    "minting_timestamp_bst": "Jun 9, 2024 at 05:18:38 British Summer Time", 
+// Minting timestamp in BST
+
+    "tokenURL": "https://raw.githubusercontent.com/DeadmanXXXII/images/main/#H4ck3d1tCoinMetaData.json", 
+// URL to the token metadata
+
+    "logoURI": "https://raw.githubusercontent.com/DeadmanXXXII/images/main/logo.png", 
+// URL to the token logo
+
+    "tags": [ 
+        // Tags describing the token
         "utility-token",
         "game-token",
         "game-currency",
         "My Metadata",
         "Gaming"
-      ],
-      "extensions": [
-        "description": "My own in game test currency for TMHPMetaverse to come..",
-        "discord": "https://discord.com/invite/KcHKZUmJ",
-        "facebook": "https://www.facebook.com/profile.php?id=100094169196372",
-        "instagram": "https://www.instagram.com/CyberShorts2024",
-        "website": "https://the-mad-hatters-playground.com/",
-        "email": "themadhattersplayground@gmail.com",
-        "reference1": "https://explorer.solana.com/address/BFq4DbQodNPCM3WaMv8awndzkXJYcU53unNMYhkWfYKe",
-        "reference2": "https://solscan.io/token/BFq4DbQodNPCM3WaMv8awndzkXJYcU53unNMYhkWfYKe"
+    ],
 
-        ],
+    "Domains": "https://the-mad-hatters-playground.com", 
+    // Domain associated with the token
+
+    "discord": "https://discord.com/invite/KcHKZUmJ", 
+    // Discord link
+
+    "timestamp": "2024-06-09T12:00:00Z", 
+    // Timestamp of the metadata creation
+
+    "contact": { 
+        // Contact information
+
+        "name": "Blu Corbel", 
+        // Name of the contact person
+
+        "email": "themadhattersplayground@gmail.com", 
+        // Email of the contact person
+
+        "phone": "+447576285686" 
+        // Phone number of the contact person
+    },
+
+    "description": "A unique utility token for gaming and in-game transactions.", 
+    // General description of the token
+
+    "explorer": "https://explorer.solana.com/address/BFq4DbQodNPCM3WaMv8awndzkXJYcU53unNMYhkWfYKe", 
+    // Link to block explorer
+
+    "solscan": "https://solscan.io/token/BFq4DbQodNPCM3WaMv8awndzkXJYcU53unNMYhkWfYKe", 
+    // Link to Solscan
+
+    "additionalURLs": [ 
+        // Additional relevant URLs
+        "https://github.com/DeadmanXXXII",
+        "https://twitter.com/CyberShorts2024"
+    ],
+
+    "projectName": "TMHPMetaverse", 
+    // Name of the associated project
+
+    "creator": { 
+        // Information about the token creator
+        "name": "Blu Corbel", 
+        // Name of the creator
+
+        "position": "Red Team Architect",
+        // Creators position
+
+        "email": "themadhattersplayground@gmail.com" 
+        // Email of the creator
     }
-
+}
