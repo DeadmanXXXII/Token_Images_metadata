@@ -9,7 +9,7 @@
   "address": "JDCLJ6Yfai1Wo23sRxX5EMEdMULcL9QSFkXg46nyqe53",
   "Mint_Authority": "HNZ7AooXCPWjRZrzbvBh1xBjCusHpdu78HTiVFp7M1N2",
   "decimals": 9,
-  "minted": 1000000,
+  "amount": 1000000,
   "mint_cap": 5000000,
   "minting_timestamp_utc": "2024-06-09T04:18:38Z",
   "minting_timestamp_bst": "Jun 9, 2024 at 05:18:38 British Summer Time",
