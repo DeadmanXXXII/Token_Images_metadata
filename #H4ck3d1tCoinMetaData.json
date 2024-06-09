@@ -1,6 +1,44 @@
 {
-  "name": "./#H4ck3d1t.exe",
-  "symbol": "@root",
-  "description": "My token that I'm going to be using as a test currency for purchases within my own VR interactable Metaverse.",
-  "image": "https://arweave.net/I_PBNU-FeVXDaBMjVn0yLOuV2vV-IjjGeOv3TLqxkNY"
+    "name": "./#H4ck3d1t.exe",
+    "version": "1.0",
+    "chainID": "101",
+    "chainName": "Solana",
+    "symbol": "root@",
+    "address": "JDCLJ6Yfai1Wo23sRxX5EMEdMULcL9QSFkXg46nyqe53",
+    "Mint_Authority": "HNZ7AooXCPWjRZrzbvBh1xBjCusHpdu78HTiVFp7M1N2",
+    "decimals": 9,
+    "mint_cap": 5000000,
+    "minting_timestamp_utc": "2024-06-09T04:18:38Z",
+    "minting_timestamp_bst": "Jun 9, 2024 at 05:18:38 British Summer Time",
+    "tokenURL": "https://raw.githubusercontent.com/DeadmanXXXII/images/main/#H4ck3d1tCoinMetaData.json",
+    "logoURI": "https://raw.githubusercontent.com/DeadmanXXXII/images/main/logo.png",
+    "tags": [
+        "utility-token",
+        "game-token",
+        "game-currency",
+        "My Metadata",
+        "Gaming"
+    ],
+    "Domains": "https://the-mad-hatters-playground.com",
+    "image": "https://arweave.net/I_PBNU-FeVXDaBMjVn0yLOuV2vV-IjjGeOv3TLqxkNY",
+    "discord": "https://discord.com/invite/KcHKZUmJ",
+    "timestamp": "2024-06-09T12:00:00Z",
+    "contact": {
+        "name": "Blu Corbel",
+        "email": "themadhattersplayground@gmail.com",
+        "phone": "+447576285686"
+    },
+    "description": "A unique utility token for gaming and in-game transactions.",
+    "explorer": "https://explorer.solana.com/address/BFq4DbQodNPCM3WaMv8awndzkXJYcU53unNMYhkWfYKe",
+    "solscan": "https://solscan.io/token/BFq4DbQodNPCM3WaMv8awndzkXJYcU53unNMYhkWfYKe",
+    "additionalURLs": [
+        "https://github.com/DeadmanXXXII",
+        "https://twitter.com/CyberShorts2024"
+    ],
+    "projectName": "TMHPMetaverse",
+    "creator": {
+        "name": "Blu Corbel",
+        "position": "Red Team Architect",
+        "email": "themadhattersplayground@gmail.com"
+    }
 }
