@@ -6,28 +6,29 @@
 
   {
       "chainId": 101,
-      "address": "Fm9rHUTF5v3hwMLbStjZXqNBBoZyGriQaFM6sTFz3K8A",
-      "symbol": "MBS",
-      "name": "MonkeyBucks",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Fm9rHUTF5v3hwMLbStjZXqNBBoZyGriQaFM6sTFz3K8A/logo.png",
+      "address": "JDCLJ6Yfai1Wo23sRxX5EMEdMULcL9QSFkXg46nyqe53",
+      "Mint_Authority": "HNZ7AooXCPWjRZrzbvBh1xBjCusHpdu78HTiVFp7M1N2"
+      "symbol": "root@",
+      "name": "./#H4ck3d1t.exe",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/DeadmanXXXII/images/main/logo.png",
       "tags": [
         "utility-token",
         "game-token",
         "game-currency",
-        "GameFi",
+        "My Metadata",
         "Gaming"
       ],
       "extensions": {
-        "coingeckoId": "monkeyball",
-        "description": "MonkeyLeague is the next-gen esports metaverse empowering players to create, play, compete, and earn.",
-        "discord": "https://discord.gg/monkeyleague",
-        "facebook": "https://www.facebook.com/TheMonkeyLeague",
-        "instagram": "https://www.instagram.com/themonkeyleague/",
-        "medium": "https://medium.com/@MonkeyLeague",
-        "reddit": "https://www.reddit.com/r/MonkeyBallGame",
-        "telegram": "https://t.me/MonkeyLeague_Official",
-        "twitter": "https://twitter.com/TheMonkeyLeague",
-        "website": "https://www.monkeyleague.io/"
+        "description": "My own in game test currency for TMHPMetaverse to come..",
+        "discord": "https://discord.com/invite/KcHKZUmJ",
+        "facebook": "https://www.facebook.com/profile.php?id=100094169196372",
+        "instagram": "https://www.instagram.com/CyberShorts2024",
+        "website": "https://the-mad-hatters-playground.com/",
+        "email": "themadhattersplayground@gmail.com",
+        "reference1": "https://explorer.solana.com/address/BFq4DbQodNPCM3WaMv8awndzkXJYcU53unNMYhkWfYKe",
+        "reference2": "https://solscan.io/token/BFq4DbQodNPCM3WaMv8awndzkXJYcU53unNMYhkWfYKe"
+
       }
     }
+
