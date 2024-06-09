@@ -1,44 +1,51 @@
 {
-    "name": "./#H4ck3d1t.exe",
-    "version": "1.0",
-    "chainID": "101",
-    "chainName": "Solana",
-    "symbol": "root@",
-    "address": "JDCLJ6Yfai1Wo23sRxX5EMEdMULcL9QSFkXg46nyqe53",
-    "Mint_Authority": "HNZ7AooXCPWjRZrzbvBh1xBjCusHpdu78HTiVFp7M1N2",
-    "decimals": 9,
-    "mint_cap": 5000000,
-    "minting_timestamp_utc": "2024-06-09T04:18:38Z",
-    "minting_timestamp_bst": "Jun 9, 2024 at 05:18:38 British Summer Time",
-    "tokenURL": "https://akrd.net/pNIYopaKLjP11JX6v0hr3iFd3BlzkCsIUwKqL3UX2MQ",
-    "logoURI": "https://arweave.net/0KEdLN4RqvH-JSX9m2eNSHx3YCCyPS3r4pRQENKfmKI",
-    "tags": [
-        "utility-token",
-        "game-token",
-        "game-currency",
-        "My Metadata",
-        "Gaming"
-    ],
-    "Domains": "https://the-mad-hatters-playground.com",
-    "image": "https://arweave.net/0KEdLN4RqvH-JSX9m2eNSHx3YCCyPS3r4pRQENKfmKI",
-    "discord": "https://discord.com/invite/KcHKZUmJ",
-    "timestamp": "2024-06-09T12:00:00Z",
-    "contact": {
-        "name": "Blu Corbel",
-        "email": "themadhattersplayground@gmail.com",
-        "phone": "+447576285686"
-    },
-    "description": "A unique utility token for gaming and in-game transactions.",
-    "explorer": "https://explorer.solana.com/address/BFq4DbQodNPCM3WaMv8awndzkXJYcU53unNMYhkWfYKe",
-    "solscan": "https://solscan.io/token/BFq4DbQodNPCM3WaMv8awndzkXJYcU53unNMYhkWfYKe",
-    "additionalURLs": [
-        "https://github.com/DeadmanXXXII",
-        "https://instagram.com/CyberShorts2024"
-    ],
-    "projectName": "TMHPMetaverse",
-    "creator": {
-        "name": "Blu Corbel",
-        "position": "Red Team Architect",
-        "email": "themadhattersplayground@gmail.com"
-    }
+  "name": "./#H4ck3d1t.exe",
+  "type": "Digital Asset",
+  "value": ,
+  "version": "1.0",
+  "chainID": "101",
+  "chainName": "Solana",
+  "symbol": "root@",
+  "address": "JDCLJ6Yfai1Wo23sRxX5EMEdMULcL9QSFkXg46nyqe53",
+  "Mint_Authority": "HNZ7AooXCPWjRZrzbvBh1xBjCusHpdu78HTiVFp7M1N2",
+  "decimals": 9,
+  "minted": 1000000,
+  "mint_cap": 5000000,
+  "minting_timestamp_utc": "2024-06-09T04:18:38Z",
+  "minting_timestamp_bst": "Jun 9, 2024 at 05:18:38 British Summer Time",
+  "tokenURL": "https://akrd.net/pNIYopaKLjP11JX6v0hr3iFd3BlzkCsIUwKqL3UX2MQ",
+  "logoURI": "https://arweave.net/0KEdLN4RqvH-JSX9m2eNSHx3YCCyPS3r4pRQENKfmKI",
+  "tags": [
+      "utility-token",
+      "game-token",
+      "game-currency",
+      "My Metadata",
+      "Gaming"
+  ],
+  "Domains": "https://the-mad-hatters-playground.com",
+  "image": "https://arweave.net/0KEdLN4RqvH-JSX9m2eNSHx3YCCyPS3r4pRQENKfmKI",
+  "discord": "https://discord.com/invite/KcHKZUmJ",
+  "timestamp": "2024-06-09T12:00:00Z",
+  "contact": {
+      "name": "Blu Corbel",
+      "email": "themadhattersplayground@gmail.com",
+      "phone": "+447576285686"
+  },
+  "description": "A unique utility token for gaming and in-game transactions.",
+  "explorer": "https://explorer.solana.com/address/BFq4DbQodNPCM3WaMv8awndzkXJYcU53unNMYhkWfYKe",
+  "solscan": "https://solscan.io/token/BFq4DbQodNPCM3WaMv8awndzkXJYcU53unNMYhkWfYKe",
+  "additionalURLs": [
+      "https://github.com/DeadmanXXXII",
+      "https://instagram.com/CyberShorts2024"
+  ],
+  "projectName": "TMHPMetaverse",
+  "creator": {
+      "name": "Blu Corbel",
+      "position": "Red Team Architect",
+      "email": "themadhattersplayground@gmail.com",
+      "smartContract": "true",
+      "type": "spl-token"
+
+  }
+  
 }
